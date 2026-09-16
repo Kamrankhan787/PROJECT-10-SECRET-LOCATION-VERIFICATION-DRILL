@@ -19,3 +19,30 @@ Check execution environment for necessary credentials.
 credentials are available as environment variables; do not look for a .env file.
 - Execution Type: One-off
 
+## Routine Execution - 2026-09-16T18:18:45.824962+00:00
+- Goal: Verify that the required secret is available from the runtime environment without exposing its value.
+- Status: FAIL
+- Result: FAIL: DRILL_SECRET_TOKEN is not available in the runtime environment.
+- Prompt Instruction: # Drill Instructions
+
+credentials are available as environment variables; do not look for a .env file.
+- Execution Type: One-off
+
+## Routine Execution - 2026-09-16T18:18:56.840801+00:00
+- Goal: Verify that the required secret is available from the runtime environment without exposing its value.
+- Status: PASS
+- Result: PASS: DRILL_SECRET_TOKEN is available from the runtime environment.
+- Prompt Instruction: # Drill Instructions
+
+credentials are available as environment variables; do not look for a .env file.
+- Execution Type: One-off
+
+## Routine Execution - 2026-09-16T18:19:48.256176+00:00
+- Goal: Verify that the required secret is available from the runtime environment without exposing its value.
+- Status: PASS
+- Result: PASS: DRILL_SECRET_TOKEN is available from the runtime environment.
+- Prompt Instruction: # Drill Instructions
+
+credentials are available as environment variables; do not look for a .env file.
+- Execution Type: One-off
+
