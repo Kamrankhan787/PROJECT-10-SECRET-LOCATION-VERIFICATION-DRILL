@@ -1,0 +1,2 @@
+# Secret Location Verification Drill
+# Standard library only (no external dependencies required)
